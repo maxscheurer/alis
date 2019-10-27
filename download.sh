@@ -16,6 +16,7 @@ rm -f alis-recovery-asciinema.sh
 rm -f alis-recovery-reboot.sh
 
 wget https://raw.githubusercontent.com/maxscheurer/alis/master/alis.conf
+wget https://raw.githubusercontent.com/maxscheurer/alis/master/alis.conf.template
 wget https://raw.githubusercontent.com/maxscheurer/alis/master/alis.sh
 wget https://raw.githubusercontent.com/maxscheurer/alis/master/alis-asciinema.sh
 wget https://raw.githubusercontent.com/maxscheurer/alis/master/alis-reboot.sh
